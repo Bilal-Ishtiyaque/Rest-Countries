@@ -1,0 +1,5 @@
+.shimmerCard .cardTitle{height: 1.438rem;border-radius: 1rem;}
+.shimmerCard p{height: 1.25rem;border-radius: 1rem;}
+.shimmerCard p:nth-child(2){width: 75%;}
+.shimmerCard p:nth-child(3){width: 60%;}
+.shimmerCard p:nth-child(4){width: 50%;}

@@ -1,0 +1,8 @@
+.shimmerDetail h1{width: 12.5rem; height: 1.563rem; border-radius: 1rem; margin-inline:auto;}
+.shimmerDetail .countryDetailsImg{height: 16.25rem;}
+.shimmerDetail .detailsText p{height: 1.25rem; width: 14.375rem;border-radius: 1rem;}
+.shimmerDetailBorders a{width: 2.5rem; height: 1.25rem;}
+
+@media(min-width: 940px) {
+    .shimmerDetail h1{margin-inline: 0;}
+}
